@@ -1,4 +1,4 @@
-[html.html](https://github.com/user-attachments/files/23834018/html.html)
+[html.html](https://github.com/user-attachments/files/23834030/html.html)
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -534,17 +534,17 @@
                                     <p>男主的亲妹妹，业界知名声优，歌手，曾经是著名儿童演员，艺名“小泉妃爱”</p>
                                 </div>
                                 <div class="character">
-                                    <div class="character-img" style="background-image: url('https://p0.ssl.qhimgs1.com/sdr/400__/t040b8c19089295b0d0.jpg');"></div>
+                                    <div class="character-img" style="background-image: url('https://p5.ssl.qhimgs1.com/sdr/400__/t0440fa08bf921fa1a5.jpg');"></div>
                                     <h3>常磐 华乃</h3>
                                     <p>男主的同班同学，业界知名画师，艺名“乃乃花”</p>
                                 </div>
                                 <div class="character">
-                                    <div class="character-img" style="background-image: url('https://p5.ssl.qhimgs1.com/sdr/400__/t04b81bcb077b3762b5.jpg');"></div>
+                                    <div class="character-img" style="background-image: url('https://p0.ssl.qhimgs1.com/sdr/400__/t03cde8098d750d3054.png');"></div>
                                     <h3>锦 明日海</h3>
                                     <p>音乐制作人，兼Vtuber，艺名“雪景四季”</p>
                                 </div>
                                 <div class="character">
-                                    <div class="character-img" style="background-image: url('https://p3.ssl.qhimgs1.com/sdr/400__/t045a565be3a3559523.jpg');"></div>
+                                    <div class="character-img" style="background-image: url('https://p1.ssl.qhimgs1.com/sdr/400__/t0490eb00c8101cc907.jpg');"></div>
                                     <h3>镰仓 诗樱</h3>
                                     <p>著名小说家，艺名“星紫苑”</p>
                                 </div>
