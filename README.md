@@ -1,4 +1,4 @@
-[html.html](https://github.com/user-attachments/files/23833737/html.html)
+[html.html](https://github.com/user-attachments/files/23833834/html.html)
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -482,12 +482,12 @@
                             <h2>主要角色</h2>
                             <div class="characters">
                                 <div class="character">
-                                    <div class="character-img" style="background-image: url('https://p5.ssl.qhimgs1.com/sdr/400__/t01d92cb880f6c1acc5.jpg');"></div>
+                                    <div class="character-img" style="background-image: url('https://p2.ssl.qhimgs1.com/sdr/400__/t01efaa6f67c9c5f348.jpg');"></div>
                                     <h3>朝武 芳乃</h3>
                                     <p>朝武家的巫女，性格认真但有些天然呆</p>
                                 </div>
                                 <div class="character">
-                                    <div class="character-img" style="background-image: url('https://p5.ssl.qhimgs1.com/sdr/400__/t019c3f85f1cd0002ef.jpg');"></div>
+                                    <div class="character-img" style="background-image: url('https://p0.ssl.qhimgs1.com/sdr/400__/t016c12ee082b2b027e.jpg');"></div>
                                     <h3>丛雨</h3>
                                     <p>神刀"丛雨丸"的管理者，穗织的守护神，外表是幼小的少女</p>
                                 </div>
