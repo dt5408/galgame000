@@ -539,7 +539,7 @@
                                     <p>男主的同班同学，业界知名画师，艺名“乃乃花”</p>
                                 </div>
                                 <div class="character">
-                                    <div class="character-img" style="background-image: url('https://p5.ssl.qhimgs1.com/sdr/400__/t04b81bcb077b3762b5.jpg');"></div>
+                                    <div class="character-img" style="background-image: url('https://p3.ssl.qhimgs1.com/sdr/400__/t04d47c3f0b4f35a2f3.jpg');"></div>
                                     <h3>锦 明日海</h3>
                                     <p>音乐制作人，兼Vtuber，艺名“雪景四季”</p>
                                 </div>
