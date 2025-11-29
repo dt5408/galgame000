@@ -1,4 +1,4 @@
-[Uploading html.html…]()
+[html.html](https://github.com/user-attachments/files/23833947/html.html)
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -509,7 +509,7 @@
         </section>
         
         <!-- Madosoft页面 -->
-        <section id="madosoft" class="page" style="background-image: url('https://p3.ssl.qhimgs1.com/sdr/400__/t04ea85443e9a8f261d.jpg');">
+        <section id="madosoft" class="page" style="background-image: url('');">
             <div class="container page-content">
                 <div class="game-detail">
                     <div class="game-hero" style="background-image: url('https://so.360tres.com/dmsmfl/123_82_/t01feec0ec92607c2b8.webp?size=1108x400&phash=-7828245009566449234');"></div>
@@ -529,7 +529,7 @@
                             <h2>主要角色</h2>
                             <div class="characters">
                                 <div class="character">
-                                    <div class="character-img" style="background-image: url('https://p3.ssl.qhimgs1.com/sdr/400__/t046c02df9b94a89ebd.jpg');"></div>
+                                    <div class="character-img" style="background-image: url('https://tiebapic.baidu.com/forum/w%3D580%3B/sign=5a9c31d0bb1f4134e0370576152494ca/50da81cb39dbb6fdaee449154f24ab18972b3742.jpg?tbpicau=2025-12-10-05_8c633080c951e61052ce94854223e3b0');"></div>
                                     <h3>和泉 妃爱</h3>
                                     <p>男主的亲妹妹，业界知名声优，歌手，曾经是著名儿童演员，艺名“小泉妃爱”</p>
                                 </div>
