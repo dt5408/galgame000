@@ -1,4 +1,4 @@
-[html.html](https://github.com/user-attachments/files/23833998/html.html)
+[html.html](https://github.com/user-attachments/files/23834018/html.html)
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -534,7 +534,7 @@
                                     <p>男主的亲妹妹，业界知名声优，歌手，曾经是著名儿童演员，艺名“小泉妃爱”</p>
                                 </div>
                                 <div class="character">
-                                    <div class="character-img" style="background-image: url('https://p3.ssl.qhimgs1.com/sdr/400__/t04b609ae09eed299d9.jpg');"></div>
+                                    <div class="character-img" style="background-image: url('https://p0.ssl.qhimgs1.com/sdr/400__/t040b8c19089295b0d0.jpg');"></div>
                                     <h3>常磐 华乃</h3>
                                     <p>男主的同班同学，业界知名画师，艺名“乃乃花”</p>
                                 </div>
