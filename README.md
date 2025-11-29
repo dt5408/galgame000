@@ -1,4 +1,4 @@
-[html.html](https://github.com/user-attachments/files/23833873/html.html)
+[Uploading html.html…]()
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -509,7 +509,7 @@
         </section>
         
         <!-- Madosoft页面 -->
-        <section id="madosoft" class="page" style="background-image: url('https://p3.ssl.qhimgs1.com/sdr/400__/t04b7849db13b824309.jpg');">
+        <section id="madosoft" class="page" style="background-image: url('https://p3.ssl.qhimgs1.com/sdr/400__/t04ea85443e9a8f261d.jpg');">
             <div class="container page-content">
                 <div class="game-detail">
                     <div class="game-hero" style="background-image: url('https://so.360tres.com/dmsmfl/123_82_/t01feec0ec92607c2b8.webp?size=1108x400&phash=-7828245009566449234');"></div>
@@ -534,7 +534,7 @@
                                     <p>男主的亲妹妹，业界知名声优，歌手，曾经是著名儿童演员，艺名“小泉妃爱”</p>
                                 </div>
                                 <div class="character">
-                                    <div class="character-img" style="background-image: url('http://tiebapic.baidu.com/forum/w%3D580/sign=a32cfb9d9fb44aed594ebeec831d876a/9befcc610c338744ceccd7ab140fd9f9d62aa02d.jpg?tbpicau=2025-12-10-05_70c4a189a36141b8b7b500ba956ccf91');"></div>
+                                    <div class="character-img" style="background-image: url('https://p3.ssl.qhimgs1.com/sdr/400__/t04b609ae09eed299d9.jpg');"></div>
                                     <h3>常磐 华乃</h3>
                                     <p>男主的同班同学，业界知名画师，艺名“乃乃花”</p>
                                 </div>
