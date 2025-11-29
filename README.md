@@ -1,4 +1,4 @@
-[html.html](https://github.com/user-attachments/files/23833834/html.html)
+[html.html](https://github.com/user-attachments/files/23833873/html.html)
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -509,10 +509,10 @@
         </section>
         
         <!-- Madosoft页面 -->
-        <section id="madosoft" class="page" style="background-image: url('https://p5.ssl.qhimgs1.com/sdr/400__/t0465759263674263df.jpg');">
+        <section id="madosoft" class="page" style="background-image: url('https://p3.ssl.qhimgs1.com/sdr/400__/t04b7849db13b824309.jpg');">
             <div class="container page-content">
                 <div class="game-detail">
-                    <div class="game-hero" style="background-image: url('https://i2.hdslb.com/bfs/article/3f74c1b297cfd4bfac214c9283c32d73a0f5d5f4.png@1106w_270h.avif');"></div>
+                    <div class="game-hero" style="background-image: url('https://so.360tres.com/dmsmfl/123_82_/t01feec0ec92607c2b8.webp?size=1108x400&phash=-7828245009566449234');"></div>
                     <div class="game-info">
                         <div class="game-title">
                             <div class="company-logo">MADO</div>
