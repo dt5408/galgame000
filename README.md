@@ -1,4 +1,4 @@
-[Uploading html.html…]()
+[html.html](https://github.com/user-attachments/files/23833998/html.html)
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -529,7 +529,7 @@
                             <h2>主要角色</h2>
                             <div class="characters">
                                 <div class="character">
-                                    <div class="character-img" style="background-image: url('https://p3.ssl.qhimgs1.com/sdr/400__/t04835f3e4ae1cc395d.jpg');"></div>
+                                    <div class="character-img" style="background-image: url('https://p0.ssl.qhimgs1.com/sdr/400__/t01b6d895ffed38d6ae.png');"></div>
                                     <h3>和泉 妃爱</h3>
                                     <p>男主的亲妹妹，业界知名声优，歌手，曾经是著名儿童演员，艺名“小泉妃爱”</p>
                                 </div>
